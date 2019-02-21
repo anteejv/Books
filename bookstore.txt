@@ -1,0 +1,2 @@
+random_bookstore[0]
+random_bookstore[1]
